@@ -1,5 +1,4 @@
-# grunt-css-include-combine 
-> Fork of grunt-css-include-combine meant to:
+# grunt-css-include-combine
 
 > . Compress CSS files.
 
